@@ -66,9 +66,11 @@ print("\nPredictions:\n",Y_pred[:5])*/
 
 ## Output:
 
-
+## PREDICTIONS
 ![Screenshot 2024-09-09 112116](https://github.com/user-attachments/assets/ff5fd012-8c2c-43a4-84b7-236f7bc2b4b1)
+## MSE
 ![Screenshot 2024-09-09 112112](https://github.com/user-attachments/assets/572366a6-dcfa-4b3a-a583-0e9ff740f15e)
+
 ![Screenshot 2024-09-09 112106](https://github.com/user-attachments/assets/65aa92c8-b84a-4312-b350-c78177260db1)
 
 
